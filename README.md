@@ -4,17 +4,17 @@ Beautifully designed components that you can copy and paste into your apps. Acce
 
 ## Documentation
 
-Visit [ui.shadcn.com](https://ui.shadcn.com) to view the documentation.
+Visit [ui.shadcn.com](https://ui.shadcn.com) to view the documentation and component gallery.
 
 ## Quick Start
 
-Run the CLI to initialize components in your project:
+Initialize shadcn/ui in your Next.js or React project:
 
 ```bash
 npx shadcn@latest init
 ```
 
-Add components easily using:
+Add components as needed:
 
 ```bash
 npx shadcn@latest add button
